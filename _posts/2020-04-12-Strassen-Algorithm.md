@@ -43,7 +43,7 @@ c1=a1xb1+a2xb4+a3xb7   c2=a1xb2+a2xb5+a3xb8  c3,c4,c5=......
 
 ​     ![...%20](http://images.se2.naver.com/smedit/2015/10/7/ifgmntt48gttax.jpg)
 
-​     ![%3D%5Cquad%20%5Ccombi%20%5E%7B%20logn%20%7D%7B%208%20%7D%5Cquad%20%3D%5Cquad%20%5Ccombi%20%5E%7B%203logn%20%7D%7B%202%20%7D%5Cquad%20%3D%5Cquad%20%5Ccombi%20%5E%7B%203%20%7D%7B%20n%20%7D%20](http://images.se2.naver.com/smedit/2015/10/7/ifgmn8i9vjl964.jpg) 으로 나타나진다(**점화식을 반복하다 보면 나온다는데 왜 이렇게 모델링을 했는지 잘 모르겠다..**) 이를 정리하면 **O($$n^3$$)** 이 되는걸 알수있다.
+​     ![%3D%5Cquad%20%5Ccombi%20%5E%7B%20logn%20%7D%7B%208%20%7D%5Cquad%20%3D%5Cquad%20%5Ccombi%20%5E%7B%203logn%20%7D%7B%202%20%7D%5Cquad%20%3D%5Cquad%20%5Ccombi%20%5E%7B%203%20%7D%7B%20n%20%7D%20](http://images.se2.naver.com/smedit/2015/10/7/ifgmn8i9vjl964.jpg) 으로 나타나진다(**점화식을 반복하다 보면 나온다는데 왜 이렇게 모델링을 했는지 잘 모르겠다..**) 이를 정리하면![O(%5Ccombi%20%5E%7B%203%20%7D%7B%20n%20%7D)%20](http://images.se2.naver.com/smedit/2015/10/7/ifgkjounjhek20.jpg)  이 되는걸 알수있다.
 
 지금까지가 행렬의 곱셈의 표준적인 방법이었다면 지금부터는 1960년대 슈트라센이 발견한 알고리즘을 보도록 하자. 슈트라센은  행렬의 곱셈을 할때 다음과 같은 규칙을 발견했는데, 이를 가지고 행렬 A와 B의 곱을 표기했다.
 
@@ -75,7 +75,7 @@ c1=a1xb1+a2xb4+a3xb7   c2=a1xb2+a2xb5+a3xb8  c3,c4,c5=......
 
 출처
 
-1.(https://09ri.tistory.com/30)(스튜디오 다락)
+1.[https://09ri.tistory.com/30](스튜디오 다락)
 
-2.(https://blog.naver.com/PostView.nhn?blogId=babobigi&logNo=220502327816&widgetTypeCall=true)
+2.[https://blog.naver.com/PostView.nhn?blogId=babobigi&logNo=220502327816&widgetTypeCall=true]
 
