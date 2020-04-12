@@ -77,5 +77,5 @@ c1=a1xb1+a2xb4+a3xb7   c2=a1xb2+a2xb5+a3xb8  c3,c4,c5=......
 
 1.[https://09ri.tistory.com/30](스튜디오 다락)
 
-2.[https://blog.naver.com/PostView.nhn?blogId=babobigi&logNo=220502327816&widgetTypeCall=true]
+2.[https://blog.naver.com/PostView.nhn?blogId=babobigi&logNo=220502327816&widgetTypeCall=true](네이버 블로그-슈트라센 알고리즘)
 
