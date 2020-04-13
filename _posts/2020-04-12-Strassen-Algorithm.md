@@ -11,7 +11,7 @@ categories: jekyll update
 
 슈트라센 알고리즘은 크기가 n x n의 행렬 A와 B의 곱셈 알고리즘을 기존의 일반적인 곱셈 방식보다 더 빠르게 할수 있도록 슈트라센이 제시한 알고리즘 인데,
 
-A의 원소를 ![%5Ccombi%20_%7B%20ij%20%7D%7B%20a%20%7D%20](http://images.se2.naver.com/smedit/2015/10/7/ifgk9ri3338ptm.jpg) , 여기서 $$i$$ 는 행, $$j$$ 는 열을 나타낸다.  행렬 B와 이 두행렬의 곱인 행렬 C의 원소도 같이 표현을 한다면,
+A의 원소를 ![%5Ccombi%20_%7B%20ij%20%7D%7B%20a%20%7D%20](http://images.se2.naver.com/smedit/2015/10/7/ifgk9ri3338ptm.jpg) , 여기서 i 는 행, j 는 열을 나타낸다.  행렬 B와 이 두행렬의 곱인 행렬 C의 원소도 같이 표현을 한다면,
 
 ![%5Ccombi%20_%7B%20ij%20%7D%7B%20c%20%7D%5Cquad%20%3D%5Cquad%20%5Csum%20_%7B%20k%3D1%20%7D%5E%7B%20n%20%7D%7B%20%5Ccombi%20_%7B%20ik%20%7D%7B%20a%20%7D*%5Ccombi%20_%7B%20kj%20%7D%7B%20b%20%7D%20%7D%20](http://images.se2.naver.com/smedit/2015/10/7/ifgkdfr2qjsuqs.jpg) ![%3D%5Cquad%20%5Ccombi%20_%7B%20i1%20%7D%7B%20a%20%7D*%5Ccombi%20_%7B%201j%20%7D%7B%20b%20%7D%5Cquad%20%2B%5Cquad%20%5Ccombi%20_%7B%20i2%20%7D%7B%20a%20%7D*%5Ccombi%20_%7B%202j%20%7D%7B%20b%20%7D%5Cquad%20%2B%5Cquad%20...%5Cquad%20%2B%5Cquad%20%5Ccombi%20_%7B%20in%20%7D%7B%20a%20%7D%5Ccombi%20_%7B%20nj%20%7D%7B%20b%20%7D%20](http://images.se2.naver.com/smedit/2015/10/7/ifgkf5tz3m7lu0.jpg) 로 나타낼수 있다.(**즉 각 행과 열을 곱해서 더해준다는 것!!**) 
 
