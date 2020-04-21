@@ -93,5 +93,5 @@ public class Rope {
 }
 ```
 
-끝
+끝.
 
