@@ -93,5 +93,5 @@ public class Rope {
 }
 ```
 
-끝.
+끝.![](C:\Users\sky78\Pictures\결과.png)
 
