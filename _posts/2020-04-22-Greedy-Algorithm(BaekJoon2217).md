@@ -93,8 +93,5 @@ public class Rope {
 }
 ```
 
-
-
-![image-20200422010513864](C:\Users\sky78\AppData\Roaming\Typora\typora-user-images\image-20200422010513864.png)
-
 끄읕
+
